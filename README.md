@@ -232,7 +232,7 @@ Next click access then for the primary department click System Administrators th
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/93b5230a-5d38-4bd0-81ef-30544ef1b431"
+<img src=".https://github.com/user-attachments/assets/93b5230a-5d38-4bd0-81ef-30544ef1b431"/>
 
 </p>
 <p>
@@ -240,7 +240,7 @@ Now you will see it was succesffully added
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/2da5e6dd-e924-4bdd-8a67-362c26e86735"
+<img src="https://github.com/user-attachments/assets/2da5e6dd-e924-4bdd-8a67-362c26e86735"/>
 
 </p>
 <p>
@@ -248,7 +248,7 @@ Next go to agents tab then agents again you will see Jane Doe was created. Then 
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/7c8e9c2a-a184-443a-a461-48b26275eaf7"
+<img src="https://github.com/user-attachments/assets/7c8e9c2a-a184-443a-a461-48b26275eaf7"/>
 
 </p>
 <p>
@@ -256,7 +256,7 @@ Now go to the account tab then type john doe. For the email type johndoe@osticke
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/d1ea636e-4487-4654-970f-d56c3ba56c32"
+<img src="https://github.com/user-attachments/assets/d1ea636e-4487-4654-970f-d56c3ba56c32"/>
 
 </p>
 <p>
@@ -264,7 +264,7 @@ Next click the access tab then for the primary department click support then cli
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/960cc4a2-1d62-4532-8e41-bd1e18e83b5f"
+<img src="https://github.com/user-attachments/assets/960cc4a2-1d62-4532-8e41-bd1e18e83b5f"/>
 
 </p>
 <p>
@@ -272,7 +272,7 @@ Now go to the agents tab and you will see john doe then click add new agent
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/f1a22aec-2f47-483b-9c59-cc7eec2441d9"
+<img src="https://github.com/user-attachments/assets/f1a22aec-2f47-483b-9c59-cc7eec2441d9"/>
 
 </p>
 <p>
@@ -280,7 +280,7 @@ Next type karen karen then for the email address type karenkaren@osticket.com. T
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/90bcbe21-7599-4d72-9732-cbc534d202d1"
+<img src="https://github.com/user-attachments/assets/90bcbe21-7599-4d72-9732-cbc534d202d1"/>
 
 </p>
 <p>
@@ -288,7 +288,7 @@ Now go to the access tab and for the primary department click support then click
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/56d14bf8-2a32-4ca6-9ffd-c2b118cbb4ab"
+<img src="https://github.com/user-attachments/assets/56d14bf8-2a32-4ca6-9ffd-c2b118cbb4ab"/>
 
 </p>
 <p>
@@ -296,7 +296,7 @@ Next go back to the agents tab and you will see that karenkaren was created. Cli
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/37c4844c-dcff-4df0-b570-1f7ac4b52188"
+<img src="https://github.com/user-attachments/assets/37c4844c-dcff-4df0-b570-1f7ac4b52188"/>
 
 </p>
 <p>
@@ -304,7 +304,7 @@ Type ken ken for the name section. Then for the email section type kenken@ostick
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/5d29d525-230c-429b-8014-8a98fcd5b6dc"
+<img src="https://github.com/user-attachments/assets/5d29d525-230c-429b-8014-8a98fcd5b6dc"/>
 
 </p>
 <p>
@@ -312,7 +312,7 @@ Go to the access tab and for the primary department click support then click vie
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/d6acbcc8-871c-4e75-8053-f912eaf2c443"
+<img src="https://github.com/user-attachments/assets/d6acbcc8-871c-4e75-8053-f912eaf2c443"/>
 
 </p>
 <p>
@@ -320,7 +320,7 @@ Click the manage tab then click SLA
 </p>
 <br />
 
-![34](https://github.com/user-attachments/assets/d59accff-0362-4544-ad21-8a51a3445145"
+<img src="https://github.com/user-attachments/assets/d59accff-0362-4544-ad21-8a51a3445145"/>
 
 </p>
 <p>
@@ -328,7 +328,7 @@ Next click add new SLA plan
 </p>
 <br />
 
-![35](https://github.com/user-attachments/assets/24948401-edd9-4c44-99b0-4b2953483c10"
+<img src="https://github.com/user-attachments/assets/24948401-edd9-4c44-99b0-4b2953483c10"/>
 
 </p>
 <p>
@@ -336,7 +336,7 @@ Now type SEV-A and the grade period type 1. For the schedule click 24/7 then cli
 </p>
 <br />
 
-![36](https://github.com/user-attachments/assets/64a47579-2508-4757-bf50-148a78fe78a0"
+<img src="https://github.com/user-attachments/assets/64a47579-2508-4757-bf50-148a78fe78a0"/>
 
 </p>
 <p>
@@ -344,7 +344,7 @@ Now type SEV-B and the grade period type 4. For the schedule click 24/7 then cli
 </p>
 <br />
 
-![37](https://github.com/user-attachments/assets/e16c87dd-b8ff-4015-8c0a-e81a0fd8550b"
+<img src="https://github.com/user-attachments/assets/e16c87dd-b8ff-4015-8c0a-e81a0fd8550b"/>
 
 </p>
 <p>
@@ -352,7 +352,7 @@ Click SLA nad you will see SEV-A and SEV-B was created. Next click add new SLA P
 </p>
 <br />
 
-![38](https://github.com/user-attachments/assets/33f45f73-0989-4d4f-a0a4-0c05fab0bc55"
+<img src="https://github.com/user-attachments/assets/33f45f73-0989-4d4f-a0a4-0c05fab0bc55"/>
 
 </p>
 <p>
@@ -360,7 +360,7 @@ Now type SEV-C and the grade period type 8. For the schedule click Monday to Fri
 </p>
 <br />
 
-![39](https://github.com/user-attachments/assets/4c3a0c4c-594a-450d-9099-87794857e83d"
+<img src="https://github.com/user-attachments/assets/4c3a0c4c-594a-450d-9099-87794857e83d"/>
 
 </p>
 <p>
@@ -368,7 +368,7 @@ Click SLA nad you will see SEV-A, SEV-B, and SEV-C was created. Now click help t
 </p>
 <br />
 
-![40](https://github.com/user-attachments/assets/047a7084-6ad5-46a3-bbdf-e8da78dc58e2"
+<img src="https://github.com/user-attachments/assets/047a7084-6ad5-46a3-bbdf-e8da78dc58e2"/>
 
 </p>
 <p>
@@ -376,7 +376,7 @@ Click add new help topic
 </p>
 <br />
 
-![41](https://github.com/user-attachments/assets/3e479a69-43a8-4595-ad8a-c3f9be50a6de"
+<img src="https://github.com/user-attachments/assets/3e479a69-43a8-4595-ad8a-c3f9be50a6de"/>
 
 </p>
 <p>
@@ -384,7 +384,7 @@ Type Business Critical Outage then click add topic
 </p>
 <br />
 
-![42](https://github.com/user-attachments/assets/3b263e24-ada2-47f3-95be-9bfaaff79961"
+<img src="https://github.com/user-attachments/assets/3b263e24-ada2-47f3-95be-9bfaaff79961"/>
 
 </p>
 <p>
@@ -392,7 +392,7 @@ Click create new help topic then type Personal Computer Issues then click add to
 </p>
 <br />
 
-![43](https://github.com/user-attachments/assets/a8233476-6ea5-4267-ad6f-93105d4f35c1"
+<img src="https://github.com/user-attachments/assets/a8233476-6ea5-4267-ad6f-93105d4f35c1"/>
 
 </p>
 <p>
@@ -400,7 +400,7 @@ Next click new ticket options and for the priority section lcik normal and the S
 </p>
 <br />
 
-![44](https://github.com/user-attachments/assets/8e979c8a-2362-4098-82f2-2ef70e63883d"
+<img src="https://github.com/user-attachments/assets/8e979c8a-2362-4098-82f2-2ef70e63883d"/>
 
 </p>
 <p>
@@ -408,7 +408,7 @@ Now go back to help topics menu and click Business Ciritical Outage
 </p>
 <br />
 
-![45](https://github.com/user-attachments/assets/cb1f2566-ec64-4366-9820-d1decc7aa71e"
+<img src="https://github.com/user-attachments/assets/cb1f2566-ec64-4366-9820-d1decc7aa71e"/>
 
 </p>
 <p>
@@ -416,7 +416,7 @@ Next click new ticket options, for the department click Support. The priority se
 </p>
 <br />
 
-![46](https://github.com/user-attachments/assets/03b86ff6-9909-484c-ace5-084d90ec57d3"
+<img src="https://github.com/user-attachments/assets/03b86ff6-9909-484c-ace5-084d90ec57d3"/>
 
 </p>
 <p>
@@ -424,7 +424,7 @@ Click new ticket then click next type Equipment Request
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/86ae6a79-c51a-4d35-9d8c-e0a8781468d4"
+<img src="https://github.com/user-attachments/assets/86ae6a79-c51a-4d35-9d8c-e0a8781468d4"/>
 
 </p>
 <p>
@@ -432,7 +432,7 @@ Now click new ticket options for department click Support. Now for priority clic
 </p>
 <br />
 
-![48](https://github.com/user-attachments/assets/d8d7f89a-ea1b-48dd-a481-c671934c48ce"
+<img src="https://github.com/user-attachments/assets/d8d7f89a-ea1b-48dd-a481-c671934c48ce"/>
 
 </p>
 <p>
@@ -440,7 +440,7 @@ Go back to help topics, you will see Equipment request was created then click ad
 </p>
 <br />
 
-![49](https://github.com/user-attachments/assets/809fc8fa-2d74-4227-a367-070575f361fb"
+<img src="https://github.com/user-attachments/assets/809fc8fa-2d74-4227-a367-070575f361fb"/>
 
 </p>
 <p>
@@ -448,7 +448,7 @@ Type Password Reset
 </p>
 <br />
 
-![50](https://github.com/user-attachments/assets/d98ce7bd-fbf2-4674-b670-7a866acda5c7"
+<img src="https://github.com/user-attachments/assets/d98ce7bd-fbf2-4674-b670-7a866acda5c7"/>
 
 </p>
 <p>
