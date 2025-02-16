@@ -424,7 +424,7 @@ Click new ticket then click next type Equipment Request
 </p>
 <br />
 
-![47](https://github.com/user-attachments/assets/86ae6a79-c51a-4d35-9d8c-e0a8781468d4"
+<img src="https://github.com/user-attachments/assets/86ae6a79-c51a-4d35-9d8c-e0a8781468d4"
 
 </p>
 <p>
