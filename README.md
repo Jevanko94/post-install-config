@@ -35,7 +35,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/a23b0ccb-ccd9-48a4-a76d-b72fa4fbed7f"/>
+<img src="https://github.com/user-attachments/assets/ea9eba4d-8747-475b-a0fe-7f8c8746c4d4"
+
 </p>
 <p>
 Going based off https://github.com/Jacobvillagomez1/osticket-prereqs first go to the link to log into OsTicket Browse to your help desk login page: http://localhost/osTicket/scp/login.php 
@@ -43,7 +44,8 @@ Going based off https://github.com/Jacobvillagomez1/osticket-prereqs first go to
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/dafce69a-ab55-4634-af6b-9916dea89631"/>
+<img src="https://github.com/user-attachments/assets/f0aa3373-8171-4e70-a7a0-f03ffb3c4091"
+
 </p>
 <p>
 Next type the name of your user then the password then click log in 
@@ -51,7 +53,8 @@ Next type the name of your user then the password then click log in
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/0b3c2beb-797d-4973-8efb-071e953f0491"/>
+<img src="https://github.com/user-attachments/assets/85f1a101-a84e-4c0c-81dc-0a3abce803d0"
+
 </p>
 <p>
 Next click Admin panel in the top right corner 
@@ -59,7 +62,8 @@ Next click Admin panel in the top right corner
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/19317425-9df8-4978-972c-2ba032e3687f"/>
+<img src="https://github.com/user-attachments/assets/f7c406d4-2bf8-4241-be1f-816d06385ae0"
+
 </p>
 <p>
 Now click the Agents tab then click Roles 
@@ -67,7 +71,8 @@ Now click the Agents tab then click Roles
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/715b1a78-a1e7-482b-b349-b2816683fbc1"/>
+<img src="https://github.com/user-attachments/assets/78fae611-8aa2-4bd2-bccd-052902401530"
+
 </p>
 <p>
 Next click add new role 
@@ -75,7 +80,8 @@ Next click add new role
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/c6aa4ec8-0a06-46ee-af9b-237c3ec435fd"/>
+<img src="https://github.com/user-attachments/assets/24fec6c9-b99c-47ce-bb47-f6a71ad073c9"
+
 </p>
 <p>
 Now type Supreme Admin then go to the permissions tab 
@@ -83,7 +89,8 @@ Now type Supreme Admin then go to the permissions tab
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/a94087de-81d0-40ff-8f93-69cdc767a804"/>
+<img src="https://github.com/user-attachments/assets/946c9b14-67c2-49ba-bf1f-c70e7353507a"
+
 </p>
 <p>
 Next click all the permissions boxs for the role then click add role 
@@ -91,7 +98,8 @@ Next click all the permissions boxs for the role then click add role
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/161467df-d22c-4884-af6b-161e3f45c2d0"/>
+<img src="https://github.com/user-attachments/assets/87509fcb-83ce-43ea-9f37-f40e007ea84b"
+
 </p>
 <p>
 Now go to departments in the agents tab and click Support
@@ -99,7 +107,8 @@ Now go to departments in the agents tab and click Support
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2993cf3b-deaf-45bc-b07c-ff174d4abf5c"/>
+<img src="https://github.com/user-attachments/assets/4683f829-86da-4285-8f08-455370fda710"
+
 </p>
 <p>
 From the settings just make sure the type is on public and the name System Administrator then click add role at the bottom 
@@ -107,7 +116,8 @@ From the settings just make sure the type is on public and the name System Admin
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/50d3e399-5127-4858-a1ab-f83ae4e4a10e"/>
+<img src="https://github.com/user-attachments/assets/0358d679-825d-4e94-b908-d0f5321ba4fd"
+
 </p>
 <p>
 You will then be greeted with a loading screen 
@@ -115,7 +125,8 @@ You will then be greeted with a loading screen
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/6fd2cde5-b14b-46db-ac27-079cd9d3f53d"/>
+<img src="https://github.com/user-attachments/assets/fda5478d-e381-40e2-b0be-4c76ac6d3bec"
+
 </p>
 <p>
 Next go to the department tab and click System Administrators the one we created
@@ -123,7 +134,8 @@ Next go to the department tab and click System Administrators the one we created
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/96823767-3622-429e-b320-0eae50a4c2a9"/>
+<img src="https://github.com/user-attachments/assets/7bb44636-fba6-469f-a2a4-40a351fb9154"
+
 </p>
 <p>
 Now click the Teams tab then click add new team 
@@ -131,7 +143,8 @@ Now click the Teams tab then click add new team
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/61a1cb53-e0b1-4903-9e1f-e14316ebc0a7"/>
+<img src="https://github.com/user-attachments/assets/c5cb637a-6e2c-460f-bffc-b4fbf1ccf528"
+
 </p>
 <p>
 Next type Level 2 Support then go to the members tab 
@@ -139,7 +152,8 @@ Next type Level 2 Support then go to the members tab
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/53a02058-8796-4be6-b9ce-10783c500b2f"/>
+<img src="https://github.com/user-attachments/assets/2474c49b-aa14-494d-838f-e2ddd73f9a61"
+
 </p>
 <p>
 Next in the members tab click josh garcia then click add. Then click create team 
@@ -147,7 +161,8 @@ Next in the members tab click josh garcia then click add. Then click create team
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/6022e6f8-4252-41f6-8d31-6cc5392e3c7f"/>
+<img src="https://github.com/user-attachments/assets/02435a2b-6c64-4fe9-87bc-579984e7201b"
+
 </p>
 <p>
 Now click the settings tab then go to the users section 
@@ -155,7 +170,8 @@ Now click the settings tab then go to the users section
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/a4bf07d6-962a-4350-8435-f778b0b067dd"/>
+<img src="https://github.com/user-attachments/assets/47d0d6ac-72b9-4a85-b988-bf132fe3f03e"
+
 </p>
 <p>
 Next make sure the registration methos is under public and then click save changes 
@@ -163,7 +179,8 @@ Next make sure the registration methos is under public and then click save chang
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/1b89a536-2048-4afd-b098-d1340572ede5"/>
+<img src="https://github.com/user-attachments/assets/371f779e-5833-44f4-9b62-e3c5a4ddab6d"
+
 </p>
 <p>
 Now click the agents tab then click agents 
@@ -171,7 +188,8 @@ Now click the agents tab then click agents
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/967a9f2e-d11d-4c04-ad08-64abb041c4f2"/>
+<img src="https://github.com/user-attachments/assets/166d2f69-a847-48b2-ba26-3dd54fc5cf8d"
+
 </p>
 <p>
 Next click add new agent
@@ -179,7 +197,8 @@ Next click add new agent
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/dd9515d0-75f2-4dbb-94a3-17a3249c1b61"/>
+<img src="https://github.com/user-attachments/assets/5b429440-3a38-4833-a8ae-eca45d7192f8"
+
 </p>
 <p>
 Next for the name click Jane Doe then for the email type janedoe@osticket.com then for the username type jane doe. Finally click set password 
@@ -187,7 +206,8 @@ Next for the name click Jane Doe then for the email type janedoe@osticket.com th
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/95f3b3a5-ded8-4521-b40f-36e189e0735b"/>
+<img src="https://github.com/user-attachments/assets/b0333b01-d971-4719-8651-7e477941c404"
+
 </p>
 <p>
 Now uncheck the box at the top then type your password I will type Password1 for this example 
@@ -195,7 +215,8 @@ Now uncheck the box at the top then type your password I will type Password1 for
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/ebb1e4a8-2915-4d9f-818f-7148a517aa3e"/>
+<img src="https://github.com/user-attachments/assets/71578846-6389-4cf9-9bdb-19820fd7afcd"
+
 </p>
 <p>
 Now uncheck the bottom box as well then click set 
@@ -203,203 +224,232 @@ Now uncheck the bottom box as well then click set
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/c78c96ef-7a12-41e3-bfaf-d3e31d81e887"/>
+<img src="https://github.com/user-attachments/assets/737fe753-0e2f-4c4f-93eb-90380af2847e"
+
 </p>
 <p>
 Next click access then for the primary department click System Administrators then click Supreme Admin then click create at the bottom 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b490a5ea-276a-465a-b25f-93a30b438535"/>
+<img src="https://github.com/user-attachments/assets/93b5230a-5d38-4bd0-81ef-30544ef1b431"
+
 </p>
 <p>
 Now you will see it was succesffully added 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/f3ed53b1-5215-43d6-8677-f9a95928f37f"/>
+<img src="https://github.com/user-attachments/assets/2da5e6dd-e924-4bdd-8a67-362c26e86735"
+
 </p>
 <p>
 Next go to agents tab then agents again you will see Jane Doe was created. Then click add new agent 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/892da9b1-8da6-4fcd-b668-0397d5dd38d2"/>
+<img src="https://github.com/user-attachments/assets/7c8e9c2a-a184-443a-a461-48b26275eaf7"
+
 </p>
 <p>
 Now go to the account tab then type john doe. For the email type johndoe@osticket.com then for the username type john doe.
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/86dae7ab-f562-4615-a1d2-3be0ed9b78db"/>
+<img src="https://github.com/user-attachments/assets/d1ea636e-4487-4654-970f-d56c3ba56c32"
+
 </p>
 <p>
 Next click the access tab then for the primary department click support then click view only. Click the create tab 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/ed6972b6-2b9d-4cf0-b7cc-f659693f86a8"/>
+<img src="https://github.com/user-attachments/assets/960cc4a2-1d62-4532-8e41-bd1e18e83b5f"
+
 </p>
 <p>
 Now go to the agents tab and you will see john doe then click add new agent 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c2a5761-30f7-483b-a704-31d994ee1b52"/>
+<img src="https://github.com/user-attachments/assets/f1a22aec-2f47-483b-9c59-cc7eec2441d9"
+
 </p>
 <p>
 Next type karen karen then for the email address type karenkaren@osticket.com. Then for the username type karenkaren 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c9610f9-2ca4-452b-9ad6-1826c33d720d"/>
+<img src="https://github.com/user-attachments/assets/90bcbe21-7599-4d72-9732-cbc534d202d1"
+
 </p>
 <p>
 Now go to the access tab and for the primary department click support then click view only. Then click create 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5380aa44-b445-4124-aae1-30c08d3ff466"/>
+<img src="https://github.com/user-attachments/assets/56d14bf8-2a32-4ca6-9ffd-c2b118cbb4ab"
+
 </p>
 <p>
 Next go back to the agents tab and you will see that karenkaren was created. Click add new agent 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/39400b35-6b5a-49d2-a183-60e92354f18a"/>
+<img src="https://github.com/user-attachments/assets/37c4844c-dcff-4df0-b570-1f7ac4b52188"
+
 </p>
 <p>
 Type ken ken for the name section. Then for the email section type kenken@osticket.com followed by the username under kenken 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b4bfb33d-1f30-4616-a3a2-8907eb9fbcec"/>
+<img src="https://github.com/user-attachments/assets/5d29d525-230c-429b-8014-8a98fcd5b6dc"
+
 </p>
 <p>
 Go to the access tab and for the primary department click support then click view only now click create 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5cfac814-5ef9-43b1-bf4d-c88b4d4842cd"/>
+<img src="https://github.com/user-attachments/assets/d6acbcc8-871c-4e75-8053-f912eaf2c443"
+
 </p>
 <p>
 Click the manage tab then click SLA 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/fcfb9ca9-d3e3-47ce-b62b-34291686bbc4"/>
+![34](https://github.com/user-attachments/assets/d59accff-0362-4544-ad21-8a51a3445145"
+
 </p>
 <p>
 Next click add new SLA plan 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/18b6c4eb-3059-46a3-85a5-009950a5a6d1"/>
+![35](https://github.com/user-attachments/assets/24948401-edd9-4c44-99b0-4b2953483c10"
+
 </p>
 <p>
 Now type SEV-A and the grade period type 1. For the schedule click 24/7 then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/078199f8-df6e-4525-bea5-6233cd933371"/>
+![36](https://github.com/user-attachments/assets/64a47579-2508-4757-bf50-148a78fe78a0"
+
 </p>
 <p>
 Now type SEV-B and the grade period type 4. For the schedule click 24/7 then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/eb6f6e24-e592-4b0d-a02f-57cac4551604"/>
+![37](https://github.com/user-attachments/assets/e16c87dd-b8ff-4015-8c0a-e81a0fd8550b"
+
 </p>
 <p>
 Click SLA nad you will see SEV-A and SEV-B was created. Next click add new SLA Plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/88dac918-dc19-4a48-baad-169002e6a1bd"/>
+![38](https://github.com/user-attachments/assets/33f45f73-0989-4d4f-a0a4-0c05fab0bc55"
+
 </p>
 <p>
 Now type SEV-C and the grade period type 8. For the schedule click Monday to Friday 8am to 5pm with US Holiday then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/7e1d5a68-6c8a-48c7-bb16-820608b036c2"/>
+![39](https://github.com/user-attachments/assets/4c3a0c4c-594a-450d-9099-87794857e83d"
+
 </p>
 <p>
 Click SLA nad you will see SEV-A, SEV-B, and SEV-C was created. Now click help topics 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d48a32fd-7fe1-49e0-833d-f7dde259c7bc"/>
+![40](https://github.com/user-attachments/assets/047a7084-6ad5-46a3-bbdf-e8da78dc58e2"
+
 </p>
 <p>
 Click add new help topic
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/17bb25a1-f871-4486-ac16-3400d4a056ca"/>
+![41](https://github.com/user-attachments/assets/3e479a69-43a8-4595-ad8a-c3f9be50a6de"
+
 </p>
 <p>
 Type Business Critical Outage then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d1c7f172-184e-4277-8932-a01f4e65b681"/>
+![42](https://github.com/user-attachments/assets/3b263e24-ada2-47f3-95be-9bfaaff79961"
+
 </p>
 <p>
 Click create new help topic then type Personal Computer Issues then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/0c38a950-4009-4b35-9020-f551ec5b8392"/>
+![43](https://github.com/user-attachments/assets/a8233476-6ea5-4267-ad6f-93105d4f35c1"
+
 </p>
 <p>
 Next click new ticket options and for the priority section lcik normal and the SLA plan click SEV-C then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/111deac2-7632-419d-b13d-805620af1249"/>
+![44](https://github.com/user-attachments/assets/8e979c8a-2362-4098-82f2-2ef70e63883d"
+
 </p>
 <p>
 Now go back to help topics menu and click Business Ciritical Outage 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/8d0109d3-530d-4f0a-bf3d-880860fcf507"/>
+![45](https://github.com/user-attachments/assets/cb1f2566-ec64-4366-9820-d1decc7aa71e"
+
 </p>
 <p>
 Next click new ticket options, for the department click Support. The priority section click Emergency and the SLA plan click SEV-A. Finally click save changes 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/3466fbaa-10d3-4539-9fa3-74c7f49240af"/>
+![46](https://github.com/user-attachments/assets/03b86ff6-9909-484c-ace5-084d90ec57d3"
+
 </p>
 <p>
 Click new ticket then click next type Equipment Request 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b5e40983-31b0-478f-a169-27edff5a7754"/>
+![47](https://github.com/user-attachments/assets/86ae6a79-c51a-4d35-9d8c-e0a8781468d4"
+
 </p>
 <p>
 Now click new ticket options for department click Support. Now for priority click low then for SLA plan click SEV-C. Finally click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/74a649cf-0203-4502-8559-587c79d98ad0"/>
+![48](https://github.com/user-attachments/assets/d8d7f89a-ea1b-48dd-a481-c671934c48ce"
+
 </p>
 <p>
 Go back to help topics, you will see Equipment request was created then click add new help topics
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/cb134a86-4f34-4641-9338-ebd1372d0077"/>
+![49](https://github.com/user-attachments/assets/809fc8fa-2d74-4227-a367-070575f361fb"
+
 </p>
 <p>
 Type Password Reset 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/e67187fa-62fa-49e2-bcab-dac168ef718a"/>
+![50](https://github.com/user-attachments/assets/d98ce7bd-fbf2-4674-b670-7a866acda5c7"
+
 </p>
 <p>
 Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic. Next click the link to continue the Ticket Lifecycle Examples https://github.com/Jacobvillagomez1/ticket-lifecycle
